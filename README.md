@@ -1,6 +1,6 @@
 # Kevin Campos
 
-<h2 align="left">🎯 Developer </h2>
+<h2 align="left"> Developer Web Design Front-End</h2>
 
 ###
 
