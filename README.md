@@ -50,3 +50,4 @@
 ![Image](https://github.com/user-attachments/assets/414f6180-2cd5-47af-a405-047c3503feb6)
 
 ###
+<img src="https://raw.githubusercontent.com/Kevin562173/Kevin562173/output/snake.svg" alt="Snake animation" />
