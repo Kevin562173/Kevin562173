@@ -1,6 +1,6 @@
 # Kevin Campos
 
-<h2 align="left">🎯 Front-End Developer focado em criar interfaces modernas e funcionais</h2>
+<h2 align="left">🎯 Developer </h2>
 
 ###
 
